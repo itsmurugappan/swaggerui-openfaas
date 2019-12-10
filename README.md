@@ -1,6 +1,6 @@
 # SwaggerUI for Openfaas
 
-Simple utility to server swagger static files and reverse proxy requests openfaas platform.
+Simple utility to serve static swagger files and reverse proxy requests to openfaas platform.
 
 Provide the environment variable "openfaas_gateway"
 
